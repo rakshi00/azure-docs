@@ -143,7 +143,7 @@ The following additional information and reports are available for MFA events, i
 | Report | Location | Description |
 |:--- |:--- |:--- |
 | Blocked User History | Azure AD > Security > MFA > Block/unblock users | Shows the history of requests to block or unblock users. |
-| Usage for on-premises components | Azure AD > Security > MFA > Activity Report | Provides information on overall usage for MFA Server through the NPS extension, ADFS, and MFA Server. |
+| Usage for on-premises components | Azure AD > Security > MFA > Activity Report | Provides information on overall usage for the NPS extension, ADFS, and MFA Server. |
 | Bypassed User History | Azure AD > Security > MFA > One-time bypass | Provides a history of MFA Server requests to bypass MFA for a user. |
 | Server status | Azure AD > Security > MFA > Server status | Displays the status of MFA Servers associated with your account. |
 
